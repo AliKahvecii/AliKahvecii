@@ -55,7 +55,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliKahvecii&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="AliKahvecii" />
     <img heigth="160" width="182" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -68,7 +68,7 @@
  <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AliKahvecii&theme=material-palenight&hide_border=false" alt="AliKahvecii" width="55%" />
     <img heigth="160" width="182" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -90,7 +90,7 @@
   
   
  <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliKahvecii&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/AliKahvecii/github-readme-stats)
 -->
 
 
