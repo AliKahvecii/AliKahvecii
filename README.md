@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bootstrap Example</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-UFH7aUfDz95jYqZy39C2FbRzWxfG/K2YhgbJs9vuzfQlA5lNY2q8e1OeUYjjHZI+" crossorigin="anonymous">
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-UFH7aUfDz95jYqZy39C2FbRzWxfG/K2YhgbJs9vuzfQlA5lNY2q8e1OeUYjjHZI+" crossorigin="anonymous">
     <style>
         /* Add your custom styles here */
     </style>
