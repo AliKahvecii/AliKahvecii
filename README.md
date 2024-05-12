@@ -1,15 +1,15 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFdM6aRGa8fEw/profile-displaybackgroundimage-shrink_200_800/0/1714929002962?e=2147483647&v=beta&t=SXxvrXMbRlUPOTqt_ydnHXE6KJPymibaS4clECUaeTI)
 ![](https://komarev.com/ghpvc/?username=AliKahvecii&color=blue)
 <div align="center">
  <a href="https://github.com/AliKahvecii">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ali+Kahveci+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Ali+Kahveci+%e2%9c%a8;%f0%9f%93%9a+Web+Tasarım+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 
 <img src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+<h2 align="left">&nbsp; Coding Dreams: My Journey Begins</h2>
 
 - 🔭 I’m currently working on **Java Script**
 
@@ -17,16 +17,12 @@
 
 - 📫 How to reach me **alikahvveci@gmail.com**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/CagatayAkkas?theme=unicorn)](https://leetcode.com/AliKahvecii/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://linkedin.com/in/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://medium.com/@cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://linkedin.com/in/ali-kahveci-754ab1264?trk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Kahveci" height="30" width="40" /></a>
+<a href="https://gi.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
 
