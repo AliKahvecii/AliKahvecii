@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<img src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=100 height=100 align="right">
+<img src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=50 height=50 align="right">
 
 ## Coding Dreams: My Journey Begins
 
@@ -17,9 +17,9 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=20 height=20></a>
-  <a href="https://linkedin.com/in/ali-kahveci-754ab1264?trk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Kahveci" height="20" width="30" /></a>
-  <a href="https://gi.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=20 height=20></a>
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=10 height=10></a>
+  <a href="https://linkedin.com/in/ali-kahveci-754ab1264?trk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Kahveci" height="10" width="20" /></a>
+  <a href="https://gi.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=10 height=10></a>
 </p>
 
 ## 💻 Languages and Tools:
@@ -35,9 +35,9 @@
 ## GitHub Stats
 <p align="center">
   <a>
-    <img height="100" width="100" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
+    <img height="50" width="50" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center"  src="https://github-readme-stats.vercel.app/api?username=AliKahvecii&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="AliKahvecii" />
-    <img height="100" width="100" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
+    <img height="50" width="50" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
@@ -45,9 +45,9 @@
 
 <p align="center">
   <a>
-    <img height="100" width="100" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
+    <img height="50" width="50" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AliKahvecii&theme=material-palenight&hide_border=false" alt="AliKahvecii" width="55%" />
-    <img height="100" width="100" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
+    <img height="50" width="50" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
@@ -55,9 +55,9 @@
 
 <p align="center">
   <a>
-    <img height="100" width="100" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
+    <img height="50" width="50" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliKahvecii&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="AliKahvecii" />
-    <img height="100" width="100" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
+    <img height="50" width="50" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
 
