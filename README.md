@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<img src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=150 height=150 align="right">
+<img src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=120 height=120 align="right">
 
 ## Coding Dreams: My Journey Begins
 
@@ -17,9 +17,9 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=30 height=30></a>
   <a href="https://linkedin.com/in/ali-kahveci-754ab1264?trk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Kahveci" height="30" width="40" /></a>
-  <a href="https://gi.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  <a href="https://gi.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=30 height=30></a>
 </p>
 
 ## 💻 Languages and Tools:
