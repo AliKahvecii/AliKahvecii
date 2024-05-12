@@ -6,14 +6,14 @@
  </a>
 </div>
 
-
+<img src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
 <h2 align="left">&nbsp; Coding Dreams: My Journey Begins</h2>
 
-- 🔭 I’m currently working on **Java Script**
+- 🔭 I’m currently working on **JavaScript**
 
-- 💬 Ask me about **HTML + CSS + JAVASCRİPT**
+- 💬 Ask me about **HTML + CSS + JavaScript**
 
 - 📫 How to reach me **alikahvveci@gmail.com**
 
