@@ -35,11 +35,11 @@
 ## GitHub Stats
 <p align="center">
   <a>
-    <img max-width: 60%;
+    <img max-width: 10%;
   height: auto; src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
-    <img max-width: 60%;
+    <img max-width: 20%;
   height: auto; align="center"  src="https://github-readme-stats.vercel.app/api?username=AliKahvecii&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="AliKahvecii" />
-    <img max-width: 60%;
+    <img max-width: 10%;
   height: auto; src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
