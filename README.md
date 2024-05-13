@@ -7,7 +7,6 @@
   </a>
 </div>
 
-<img src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 ## Coding Dreams: My Journey Begins
 
