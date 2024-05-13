@@ -44,7 +44,7 @@
 
 <p align="center">
   <a>
-    <img height="160" width="182" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
+    <img height="160" width="182"object-fit: cover;  src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AliKahvecii&theme=material-palenight&hide_border=false" alt="AliKahvecii" width="55%" />
     <img height="160" width="182" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
   </a>
