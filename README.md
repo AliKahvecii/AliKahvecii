@@ -35,9 +35,9 @@
 ## GitHub Stats
 <p align="center">
   <a>
-    <img height="130" width="152" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
+    <img height="110" width="132" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
     <img height="200" width="222" align="center"  src="https://github-readme-stats.vercel.app/api?username=AliKahvecii&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="AliKahvecii" />
-    <img height="130" width="152" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
+    <img height="110" width="132" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
@@ -45,9 +45,9 @@
 
 <p align="center">
   <a>
-    <img height="160" width="182" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
+    <img height="120" width="142" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AliKahvecii&theme=material-palenight&hide_border=false" alt="AliKahvecii" width="55%" />
-    <img height="160" width="182" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
+    <img height="120" width="142" src="https://github.com/AliKahvecii/AliKahvecii/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
 
