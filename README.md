@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AliKahvecii/AliKahvecii/blob/main/img/banner2.png)
+![MasterHead](https://github.com/AliKahvecii/AliKahvecii/blob/main/img/1banner.jpg)
 ![](https://komarev.com/ghpvc/?username=AliKahvecii&color=blue)
 
 <div align="center">
