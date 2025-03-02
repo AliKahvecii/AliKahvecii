@@ -10,7 +10,7 @@
 
 ## Coding Dreams: My Journey Begins
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Python**
 - 💬 Ask me about **HTML + CSS + JavaScript + Python**
 - 📫 How to reach me: [alikahvveci@gmail.com](mailto:alikahvveci@gmail.com)
 
